@@ -20,7 +20,7 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
+python cne_demo.py
 ```
 
 Add any additional ways to run the program below
