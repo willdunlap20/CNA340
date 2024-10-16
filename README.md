@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here.
+This is described as a "Simple Calculator Exercise" this calculator allows users to be prompted to enter 2 numbers, from there they can choose an operator, anything from +, -, *, /, ^, and Root. As well if an incorrect operator is chosen the program will tell you and result in a failure. It also will not let you root 0 as that is undefined and it will not let you divide by zero.
 
 ## Getting Started
 
