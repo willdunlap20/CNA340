@@ -37,7 +37,9 @@ python "Week 4 Assignment 1.py" < test.txt
 
 *Make sure test file is structured 
 num1
+
 num2
+
 operator*
 
 ## Thanks
