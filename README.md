@@ -44,8 +44,6 @@ num2
 operator*
 
 ## Thanks
-I would like to thank the following for their support and contributions:
-
-My professors, for their guidance and mentorship throughout the assignment.
+I would like to thank the following for their contributions:
 
 The article "Fork a repo" from GitHub Documentation, which helped me understand the process of forking and working with repositories.
